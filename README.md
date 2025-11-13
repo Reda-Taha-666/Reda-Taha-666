@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer<br> specializing in web application <br>development using Python and Django.<br>Website design and development 
+I am a software developer<br> specializing in web application <br>development using Python and Django.<br>Website design and development.
 My profile website: https://reda-taha-666.github.io
 
 
